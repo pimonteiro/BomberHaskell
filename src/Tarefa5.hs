@@ -277,7 +277,7 @@ fr = 50
 
 -- | Display mode
 dm :: Display
-dm = InWindow "BomberCraft" (800, 600) (0, 0)
+dm = InWindow "BomberHaskell" (800, 600) (0, 0)
 --dm_pixeis = (61,46) --(800/13,600/13)
       
 -- | Função principal que invoca o jogo.
